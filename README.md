@@ -1,4 +1,4 @@
-# Gender-Prediction-Of-Twitter-Users
+# Gender Prediction Of Twitter Users
 ## Introduction
 This is a basic project on Machine Learning which allows us to predict the gender of twitter users with the help of various data given about the user. 
 
